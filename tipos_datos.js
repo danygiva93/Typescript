@@ -1,0 +1,10 @@
+"use strict";
+var batman = "Batman";
+var linternaVerde = 'Linterna verde';
+var volcanNegro = "Volcan Negro";
+console.log("Batman");
+console.log("linternaVerde");
+console.log("volcanNegro");
+//let concatenar:string = "los heroes:" + batman + "," + linternaVerde + "," + volcanNegro;
+var concat = "los heeroes son: " + batman + ", " + linternaVerde + ", " + volcanNegro;
+console.log(concat);
